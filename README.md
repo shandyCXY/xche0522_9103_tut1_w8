@@ -14,3 +14,5 @@ HERE IS THE INSPERATION ARTWORK [LINK](https://galactic.ink/journal/tag/canvas/)
 (TEXT)
 
 ![PERLIN NOISE ARTWORK IMAGE2](/perlin-noise2.png "perlin-noise_2")
+
+### HERE IS THE RESEARCH ABOUT Perlin Noise Algorithm 
