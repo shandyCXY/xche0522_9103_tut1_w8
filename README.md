@@ -10,3 +10,7 @@ this is the week8 quiz i will show github.
 HERE IS THE INSPERATION ARTWORK [LINK](https://galactic.ink/journal/tag/canvas/).
 
 ![PERLIN NOISE ARTWORK IMAGE1](/perlin-noise1.png "perlin-noise_1")
+
+(TEXT)
+
+![PERLIN NOISE ARTWORK IMAGE2](/perlin-noise2.png "perlin-noise_2")
