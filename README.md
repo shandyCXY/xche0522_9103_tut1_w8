@@ -24,7 +24,7 @@ Perlin noise is widely used in computer graphics to generate natural-looking tex
 ---
 ### INSPERATION FROM ARTWORK AND ALGORITHM RESEARCH
 
-PERLIN NOISE can enhance visual effects. Depending on the direction of motion that the variable causes, there may be either a stark contrast or a smooth streamline. For a static work of art, this can better impart the emotional value the artist wishes to convey (positive emotion corresponds to the gentle line flow, and negative emotion corresponds to the impact line flow).
+The PERLIN NOISE may enhance visual effects. Depending on the motion direction caused by the variable, there may be either a forceful contrast or a gentle streamline. This can better convey the emotional value that the artist wishes to convey in a static work of art (positive emotion corresponds to the gentle line flow, and negative emotion corresponds to the impact line flow).
 
 ---
 # PART 2: CODING TECHNIQUE EXPLORATION
