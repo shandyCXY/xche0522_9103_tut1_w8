@@ -30,6 +30,6 @@ PERLIN NOISE can enhance visual effects. Depending on the direction of motion th
 # PART 2: CODING TECHNIQUE EXPLORATION
 ![PERLIN NOISE CODE IMAGE1](/Random%20and%20noise.png "perlin-noise_CODE1")
 ![PERLIN NOISE CODE IMAGE2](/Random%20and%20noise2.png "perlin-noise_CODE2")
-HERE IS THE INSPERATION CODE [LINK](https://editor.p5js.org/generative-design/sketches/M_1_5_02).
+HERE IS THE INSPERATION CODE [LINK](http://www.generative-gestaltung.de/2/sketches/?02_M/M_1_5_02).
 ### INSPERATION FROM  Generative Design web
 ![PERLIN NOISE CODE](/code.png "CODE")
